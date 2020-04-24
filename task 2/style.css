@@ -1,0 +1,28 @@
+html, body{
+ margin: 0;
+ padding: 0;
+}
+div{
+    height: 600px;
+    width: 600px;
+}
+.red{
+    background-color: red;
+}
+.green{
+background-color: green;
+width:600px;
+height:600px;
+position:absolute;
+left:40%;
+top:50%;
+margin:-100px 0 0 -150px;
+}
+.blue{
+    background-color:blue;
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    left: 60%;
+    top: 80%;
+}

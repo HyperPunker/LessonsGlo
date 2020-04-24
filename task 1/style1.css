@@ -1,0 +1,36 @@
+html, body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.header-element{
+   width: 48%;
+   margin: 1%;
+   height: 100px;
+   float: left;
+   background-color: yellow;
+}
+#content{
+    width: 98%;
+    margin: 1%;
+    height: 200px;
+    float: left;
+    background-color: green;
+
+}
+
+.footer-menu-item {
+width: 31%;
+margin: 1%;
+height: 90px;
+float: left;
+background-color: blue;
+}
+.footer-element{
+    width: 23%;
+    margin: 1%;
+    height: 200px;
+    float: left;
+    background-color:black;
+}
