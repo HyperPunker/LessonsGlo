@@ -21,11 +21,20 @@ html, body{
 }
 
 .footer-menu-item {
-width: 31%;
-margin: 1%;
+width: 32%;
 height: 90px;
 float: left;
 background-color: blue;
+}
+.footer-menu-item__first{
+    margin: 1%;
+}
+.footer-menu-item__second{
+    margin: 1%;
+}
+.footer-menu-item__center{
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 .footer-element{
     width: 23%;

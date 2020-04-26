@@ -1,0 +1,48 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+.header-content{
+    position: absolute; top;
+background-color:blue;
+border: 1px solid black;
+width: 90%;
+height: 15%;
+margin: 5%;
+margin-top: 0;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px
+}
+.side-menu{
+position: fixed; left;
+background-color: rgba(237, 28, 44, 0.5);
+border: 1px solid red;
+width: 10%;
+height: 600px;
+margin-top: 150px;
+}
+span{
+    margin-left: 25px;
+    color:goldenrod;
+}
+.content{
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 150px;
+    background-color:yellow;
+    border: 1px solid black;
+    width: 1000px;
+    height: 500px; 
+}
+footer{
+    position: absolute; bottom;
+    background-color: #543435;
+    border: 1px solid black;
+    width: 90%;
+    height: 15%;
+    margin: 50%;
+    margin-bottom: 0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-left: 4%;
+}
