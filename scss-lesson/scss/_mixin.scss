@@ -1,0 +1,15 @@
+@mixin up-text-green {
+color: green;
+font-size: 44px;
+text-transform: uppercase;
+}
+
+$pointer: pointer;
+$color: red;
+
+%hover:hover{
+    color: red;
+    opacity: 1;
+    cursor: pointer;
+
+}

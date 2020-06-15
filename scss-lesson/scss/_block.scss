@@ -1,0 +1,23 @@
+.container9{
+    h3{
+        @include up-text-green;
+    }
+}
+.colored_text{  
+    cursor: $pointer;
+    color: red !important
+}
+.container4{
+    .item6{
+        p{
+            @extend %hover;
+        }
+    }
+}
+.container5{
+    .text_content2{
+        span{
+            @extend %hover;
+        }
+    }
+}

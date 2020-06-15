@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AESA,ADAA,WCAW,CACP,MAAM,CACF,CAAC,ADFH,MAAM,ECOZ,WAAW,CACP,cAAc,CACV,IAAI,ADTN,MAAM,CAAA;EACR,KAAK,EAAE,GAAG;EACV,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,OAAO;CAElB;;ACdD,AACI,WADO,CACP,EAAE,CAAA;EDAN,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,IAAI;EACf,cAAc,EAAE,SAAS;CCApB;;AAEL,AAAA,aAAa,CAAA;EACT,MAAM,EDAA,OAAO;ECCb,KAAK,EAAE,cACX;CAAC",
+    "sources": [
+        "style1.scss",
+        "_mixin.scss",
+        "_block.scss"
+    ],
+    "names": [],
+    "file": "style1.css"
+}

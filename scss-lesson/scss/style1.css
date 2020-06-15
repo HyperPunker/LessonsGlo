@@ -1,0 +1,17 @@
+.container4 .item6 p:hover, .container5 .text_content2 span:hover {
+  color: red;
+  opacity: 1;
+  cursor: pointer;
+}
+
+.container9 h3 {
+  color: green;
+  font-size: 44px;
+  text-transform: uppercase;
+}
+
+.colored_text {
+  cursor: pointer;
+  color: red !important;
+}
+/*# sourceMappingURL=style1.css.map */
